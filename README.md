@@ -282,7 +282,7 @@ python src/view/gui/kivy_gui.py
 ## 📝 Notas
 - Asegúrese de ejecutar el comando desde la carpeta **CODIGO-LIMPIO-2025_GUI**.
 - Si tiene problemas con Kivy, intente reinstalarlo con `pip install --upgrade kivy`.
-
+- otros problemas pueden ocurrir por tener activada la seguridad de Windows, para la efectiva ejecución de esta asegurese de tener dicha seguridad de Windows desactivada
 ## 📌 Autores
 Interfaz grafica desarrollada por Juan Sebastian Pinilla Giraldo y Juan Vallejo
 
